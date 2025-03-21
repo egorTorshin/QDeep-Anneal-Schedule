@@ -59,7 +59,7 @@ You can see information about supported IDEs and authorizing access to your
 Leap account [here](https://docs.dwavesys.com/docs/latest/doc_leap_dev_env.html).  
 
 
-To run a locally installed notebook:
+To run a demo:
 
 ```bash
 python 01-anneal-schedule.py
