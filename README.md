@@ -58,13 +58,11 @@ Your development environment should be configured to
 You can see information about supported IDEs and authorizing access to your 
 Leap account [here](https://docs.dwavesys.com/docs/latest/doc_leap_dev_env.html).  
 
-The notebook can be opened by clicking on the 
-``01-anneal-schedule.ipynb`` file in VS Code-based IDEs. 
 
 To run a locally installed notebook:
 
 ```bash
-jupyter notebook
+python 01-anneal-schedule.py
 ```
 
 ## License
